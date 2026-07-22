@@ -1,7 +1,7 @@
 # Bank-Transaction-Fraud-Analysis
 
 ## Project Overview
-This project analyzes 1 million bank transactions to identify fraud patterns across multiple dimensions including geography, merchant category, payment method, device type, and time of day.
+This project analyzes 1 million bank transactions to identify fraud patterns across multiple dimensions including geography, merchant category, payment method, device type, time of day among others, Using Powerful tools like Excel, Power BI, Python and SQL SSMS Server.
 
 ## Tools Used
 - **Excel** — Data cleaning, Data exploration, Pivot Tables, Dashboard
@@ -10,6 +10,7 @@ This project analyzes 1 million bank transactions to identify fraud patterns acr
 - **Python** — Data analysis and visualization (Pandas, Matplotlib, Seaborn)
 
 ## Dataset
+- The original dataset contains 1 million financial transaction records. Due to GitHub file size limitations, the raw dataset is provided through the external link below:
 Source: [Kaggle — Bank Transaction Fraud Dataset](https://www.kaggle.com/datasets/nafiulislam490/bank-transaction-fraud-detection-dataset)
 - 1,000,000 rows
 - Features include: transaction amount, country, merchant category, payment method, device type, hour of day, fraud flag, tranasaction id, transaction date, is weekend, city ETC
