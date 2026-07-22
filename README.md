@@ -1,4 +1,4 @@
-# Bank-Transaction-Fraud-Analysis
+# BANK TRANSACTION FRAUD ANALYSIS
 
 ## Project Overview
 This project analyzes 1 million bank transactions to identify fraud patterns across multiple dimensions including geography, merchant category, payment method, device type, time of day among others, Using Powerful tools like Excel, Power BI, Python and SQL SSMS Server.
