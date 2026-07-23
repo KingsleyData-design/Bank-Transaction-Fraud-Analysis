@@ -3,13 +3,13 @@
 Fraud's rare, but it's not random. This one's about finding where it actually clusters — which merchants, which hours, which countries — using a dataset of 1 million bank transactions.
 
 ## Key Metrics
-| Metric | Value |
+| METRICS | VALUE |
 |--------|-------|
-| Total Transactions | 1,000,000 |
-| Total Fraud Cases | 55,000 |
-| Fraud Rate | 5.53% |
-| Total Fraud Amount | $12.60M |
-| Avg Transaction Amount | $204.72 |
+| TOTAL TRANSACTION | 1,000,000 |
+| TOTAL FRAUD CASES | 55,000 |
+| FRAUD RATE | 5.53% |
+| TOTAL FRAUD AMOUNT | $12.60M |
+| AVG TRANSACTION AMOUNT | $204.72 |
 
 ## The data
 
